@@ -1,0 +1,38 @@
+# Kiến thức cơ bản về thống kê y sinh {#biostat}
+
+## Giới thiệu về thống kê y sinh
+
+### Biến số
+
+### Mẫu và phương pháp lấy mẫu
+
+### Thống mê mô tả vs. Thống kê phân tích
+
+### Kiểm định giả thuyết & trị số p
+
+### Ước lượng khoảng tin cậy
+
+## Phân tích biến số định tính
+
+### Mô tả biến số định tính
+
+### Kiểm định so sánh hai tỉ lệ: phép kiểm Chi bình phương
+
+### Kiểm định so sánh hai tỉ lệ: phép kiểm Fisher's exact
+
+## Phân tích biến số định lượng
+
+### Mô tả biến số định lượng
+
+### Kiểm định so sánh hai trung bình: phép kiểm t
+
+### Kiểm định so sánh hai trung bình: phép kiểm Mann-Whitney
+
+### Phân tích phương sai
+
+### Tương quan và hồi quy tuyến tính
+
+## Tóm tắt về phân tích thống kê
+
+
+

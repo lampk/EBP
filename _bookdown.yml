@@ -1,0 +1,9 @@
+output_dir: "docs"
+book_filename: "CB_THYKCC"
+language:
+  label:
+    fig: 'Hình '
+    tab: 'Bảng '
+  ui:
+    chapter_name: "Chương "
+delete_merged_file: true
