@@ -281,7 +281,7 @@ Phân phối của một biến số ngẫu nhiên mô tả xác suất của m�
 
 #### Hàm khối xác suất (Probability mass function, PMF)
 
-The probability mass function (PMF) of a discrete r.v. X is the function $p_X$ given by $p_X(x) = P(X = x)$. Note that this is positive if x is in the support of X, and 0 otherwise.
+Là hàm số $p_X$ xác định bởi $p_X(x) = P(X = x)$.
 
 #### Tính chất của PMF
 
